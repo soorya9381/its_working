@@ -2,6 +2,8 @@
 #include<stdlib.h>
 #include<time.h>
 
+void add(int num);
+
 int main ()
 {
     int i, input;
